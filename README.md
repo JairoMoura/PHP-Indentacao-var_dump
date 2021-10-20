@@ -1,2 +1,7 @@
 # PHP-Indentacao-var_dump
-Indentação para var_dum(); ou printr();
+Exemplo de Indentação para var_dum(); ou printr();
+
+```PHP
+echo '<pre>'; // Apenas adicione essa linha
+var_dump($variavel);
+ 
